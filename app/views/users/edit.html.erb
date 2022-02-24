@@ -1,11 +1,21 @@
 <h2>User info</h2>
+<%= form_with model: @user do |f| %>
 
-<h4>Name</h4>
- <%= f.label :name %>
-<h4>image</h4>
-<%= f.file_field :image, accept: "image/*" %>
-  
-<h4>introduction</h4>
+<div>
+ <label>Name</label><br>
+ <%= f.text_field :name  %>
+</div>
 
+<div>
+ <label>image</label><br>
+ <%= f.file_field :image, accept: "image/*" %>
+</div>
+
+<div>
+ <label>introduction</label><br>
+ <%= f.text_area :introduction %>
+</div>
+<div>
  <%= f.submit 'Update User' %>
-  
+</div>
+  <% end %>

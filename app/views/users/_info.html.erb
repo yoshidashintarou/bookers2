@@ -1,0 +1,58 @@
+<h2>User info</h2>
+<%= form_with model: user do |f| %>
+
+<div>
+<h4>画像</h4>
+<% if user.image.attached? %>
+  <%= image_tag user.image,size:"100x100" %>
+<% else %>
+  <%= image_tag 'no_image', size: "100x100" %>
+<% end %>
+
+</div>
+
+<div>
+<h4>name</h4>
+ <%= user.name %>
+ </div>
+ 
+ <div>
+<h4>introduction</h4>
+<%= user.introduction %>
+</div>
+
+<div>
+<%= link_to "設定", edit_user_path(user) %>
+</div>
+<% end %>
+
+
+
+<label>Users</label>
+<h4>image</h4>
+<% if user.image.attached? %>
+  <%= image_tag user.image,size:"100x100" %>
+<% else %>
+  <%= image_tag 'no_image', size: "100x100" %>
+<% end %>
+
+<h4>name</h4>
+<%= user.name %>
+
+
+
+
+
+<h2>New book</h2>
+<%= form_with model: book do |f| %>
+
+
+
+<h2>Title</h2>
+<%= f.text_field :title %>
+
+<h2>Opinion</h2>
+<%= f.text_area :body %>
+
+ <br><%= f.submit 'create Book' %></br>
+<% end %>
