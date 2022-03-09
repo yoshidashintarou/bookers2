@@ -289,7 +289,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x000000000503b740>[0m
+     [31m  undefined method `profile_image' for #<User:0x00000000056e8728>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -311,7 +311,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e04330>[0m
+     [31m  undefined method `profile_image' for #<User:0x00000000077d4888>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -333,7 +333,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e10248>[0m
+     [31m  undefined method `profile_image' for #<User:0x00000000077e0408>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -355,7 +355,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e23ca8>[0m
+     [31m  undefined method `profile_image' for #<User:0x00000000077f3a58>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -377,7 +377,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e3e828>[0m
+     [31m  undefined method `profile_image' for #<User:0x000000000780e880>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -398,7 +398,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e4a5b0>[0m
+     [31m  undefined method `profile_image' for #<User:0x000000000781a798>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -419,7 +419,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e56428>[0m
+     [31m  undefined method `profile_image' for #<User:0x0000000007826750>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -440,7 +440,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e624f8>[0m
+     [31m  undefined method `profile_image' for #<User:0x0000000007831b50>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -461,7 +461,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User:0x0000000006e6d8a8>[0m
+     [31m  undefined method `profile_image' for #<User:0x000000000783dc20>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -482,7 +482,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006e798d8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007849520>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -503,7 +503,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006e848f0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007854038>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -524,7 +524,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006e97e28>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000786fdb0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -545,7 +545,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000838d4e0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008bd2b28>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -567,7 +567,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006df2950>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008e62370>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -589,7 +589,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006e3ecb0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000005857cd0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -611,7 +611,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006e77420>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007753260>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -633,7 +633,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006ed0250>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000077db8b8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -655,7 +655,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006f5c390>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007814f78>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -677,7 +677,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000070b2410>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000784d4b8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -699,7 +699,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000718b3f0>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000078ecf90>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -721,7 +721,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000072023b0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007910df0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -742,7 +742,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000072198d0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007922dc0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -763,7 +763,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007251078>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000796adc8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -784,7 +784,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000072c2b60>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000079a4050>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -805,7 +805,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007324d10>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007a17e38>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -826,7 +826,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000734ba28>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007a47368>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -847,7 +847,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000073a6e00>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007a96cb0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -868,7 +868,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000073e0ad8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007ace5e8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -889,7 +889,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000740f450>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007b112a8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -910,7 +910,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000746a8f0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007b46fe8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -931,7 +931,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000074a89c0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007b62068>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -952,7 +952,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000074d33c8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007b9d050>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -973,7 +973,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007512690>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007c12ff8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -994,7 +994,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007528008>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007c22458>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1015,7 +1015,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007572b58>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007c71a30>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1036,7 +1036,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000075bc7d0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007cf75e0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1057,7 +1057,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000075e3ee8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007d0e448>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1078,7 +1078,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000761d738>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007d54150>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1099,7 +1099,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000076707f8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007dbeac8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1120,7 +1120,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007697100>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007dde198>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1141,7 +1141,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000076d2a70>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007e18fc8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1162,7 +1162,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007729410>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007e701d8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1183,7 +1183,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007748c98>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007ecaa98>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1204,7 +1204,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000077937c0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007ee17e8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1225,7 +1225,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000077e5228>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007f1ed28>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1246,7 +1246,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007804420>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007f39a60>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1267,7 +1267,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000784ac18>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007f78eb8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1288,7 +1288,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000078a89a8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007fcfe48>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1309,7 +1309,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000078cb7f0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007fef108>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1330,7 +1330,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000790add8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008029f88>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1351,7 +1351,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000079856a0>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000807cfd0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1372,7 +1372,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007a78238>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008098488>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1393,7 +1393,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000729adb8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000080e2ee8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1414,7 +1414,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007392ab8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000081350a8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1435,7 +1435,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006b1cc80>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000815af10>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1456,7 +1456,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006528ea0>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000819d9c8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1477,7 +1477,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000654a4d8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008206338>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1498,7 +1498,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000065667a0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008246d70>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1519,7 +1519,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000065907d0>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000082af668>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1540,7 +1540,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000065beab8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000082c9360>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1561,7 +1561,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000065d17d0>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000830af68>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1582,7 +1582,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000065ecaf8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008380470>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1603,7 +1603,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x000000000660b728>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000083a1b48>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1624,7 +1624,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000006621dc0>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000083fb508>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1645,7 +1645,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000066b5f48>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008443088>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1666,7 +1666,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007a86e28>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008459fb8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1687,7 +1687,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00007f29280101c8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000084dd1d8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1708,7 +1708,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00007f2928034f50>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000852f028>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1729,7 +1729,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00007f2928059d28>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000854d6e0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1750,7 +1750,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00007f29281902c8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007f02650>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1771,7 +1771,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00007f29281ab460>[0m
+      [31m  undefined method `profile_image' for #<User:0x00007f410c01c8a0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1792,7 +1792,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00007f29281c13c8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00007f410c03dc80>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1813,7 +1813,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00007f29281e3ef0>[0m
+      [31m  undefined method `profile_image' for #<User:0x00007f410c05fba0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1834,7 +1834,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000066d8ea8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00007f410c195cb8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1855,7 +1855,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007bdb788>[0m
+      [31m  undefined method `profile_image' for #<User:0x00007f410c1a9100>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1876,7 +1876,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007bf9940>[0m
+      [31m  undefined method `profile_image' for #<User:0x00007f410c1cb9f8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1897,7 +1897,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007c1bcc0>[0m
+      [31m  undefined method `profile_image' for #<User:0x00007f410c1e2608>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1918,7 +1918,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007c56988>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007c8faf8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1939,7 +1939,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007c657f8>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000755e248>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1960,7 +1960,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007ccb378>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007e42440>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -1981,7 +1981,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007d0ab90>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007e58cb8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2002,7 +2002,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007d79ea0>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000827b6b0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2023,7 +2023,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007db5450>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008292658>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2044,7 +2044,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007dd45f8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000080617a8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2065,7 +2065,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007de97c8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000074fc020>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2086,7 +2086,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007e085d8>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007007380>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2107,7 +2107,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007e2bbc8>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000703e628>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2128,7 +2128,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007e42670>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000070712d0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2149,7 +2149,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007e7d8d8>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000707f6a0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2170,7 +2170,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007e9f960>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000007091bc0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2191,7 +2191,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007ec2ff0>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008660578>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2212,7 +2212,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007ed2540>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000867bbe8>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2233,7 +2233,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007f17c08>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000086b95b0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2254,7 +2254,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007f2f358>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000086d3190>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2275,7 +2275,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007f3e3a8>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000086f1d70>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2296,7 +2296,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007f74d90>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008700e38>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2317,7 +2317,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007fd7df0>[0m
+      [31m  undefined method `profile_image' for #<User:0x000000000873c460>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2338,7 +2338,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x0000000007fe9f00>[0m
+      [31m  undefined method `profile_image' for #<User:0x0000000008762930>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2359,7 +2359,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User:0x00000000080093a0>[0m
+      [31m  undefined method `profile_image' for #<User:0x00000000087760c0>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2380,7 +2380,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000080184b8>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000087b1878>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2401,7 +2401,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008058f68>[0m
+       [31m  undefined method `profile_image' for #<User:0x000000000880e2a8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2422,7 +2422,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000080bbca8>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000088213f8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2443,7 +2443,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000080d71d8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008847dc8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2464,7 +2464,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000080ee4f0>[0m
+       [31m  undefined method `profile_image' for #<User:0x000000000885aec8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2485,7 +2485,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008125a18>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008895f00>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2506,7 +2506,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008154278>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000088a9528>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2527,7 +2527,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000081a5fb0>[0m
+       [31m  undefined method `profile_image' for #<User:0x000000000890f148>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2548,7 +2548,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000081b52f8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008922860>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2569,7 +2569,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000081ec988>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008961c90>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2590,7 +2590,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000820e7b8>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000089bfe58>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2611,7 +2611,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000825d6b0>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000089def60>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2632,7 +2632,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008278bb8>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000089ea6a8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2653,7 +2653,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000082b7458>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008a24d58>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2674,7 +2674,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000082d6a88>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008a47c40>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2695,7 +2695,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000831cec0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008a96ac0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2716,7 +2716,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008343d68>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008ab5e20>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2737,7 +2737,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000835dc18>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008ac4740>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2758,7 +2758,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008394ec0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008b0ba50>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2779,7 +2779,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000083d1ff0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008b5a0b0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2800,7 +2800,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000083e69c8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008b745c8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2821,7 +2821,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008421ac8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008b93cc0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2842,7 +2842,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000845b4f8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008bd22b8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2863,7 +2863,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000077accc0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008bf45c0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2884,7 +2884,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000007cd82a8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008c23b90>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2905,7 +2905,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000007d17700>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008c2f300>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2926,7 +2926,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000071b87b0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008c68560>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2947,7 +2947,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000084c00b0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008ccba70>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2968,7 +2968,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000084f2c40>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008d069b8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -2989,7 +2989,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000851e458>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008d4dc28>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3010,7 +3010,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008549748>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008d6c4e8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3031,7 +3031,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008574e70>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008d8f588>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3052,7 +3052,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000085abe48>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008dca598>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3073,7 +3073,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000085d6030>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008debe50>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3094,7 +3094,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008601230>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008e03208>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3115,7 +3115,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008637d80>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008e26708>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3136,7 +3136,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008663480>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008e61290>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3157,7 +3157,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000868d848>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008e810b8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3178,7 +3178,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000086c3bc8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008ea13e0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3199,7 +3199,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000086eead0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008f20460>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3220,7 +3220,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000871a130>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008f52d98>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3241,7 +3241,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008745768>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008f7e0d8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3262,7 +3262,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000087709e0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008fa9788>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3283,7 +3283,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000087a6ae0>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000008fd41b8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3304,7 +3304,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000087d1808>[0m
+       [31m  undefined method `profile_image' for #<User:0x000000000900b870>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3325,7 +3325,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000087fc288>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000090366b0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3346,7 +3346,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000088334b8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000009061748>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3367,7 +3367,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000885d970>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000090978e8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3388,7 +3388,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x000000000888fc40>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000090c14b8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3409,7 +3409,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000088bed88>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000090ec4d8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3430,7 +3430,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000088ea1b8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000009123898>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3451,7 +3451,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008914d78>[0m
+       [31m  undefined method `profile_image' for #<User:0x000000000914ecc8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3472,7 +3472,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008946508>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000009178398>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3493,7 +3493,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008970ad8>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000091aee70>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3514,7 +3514,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000089a69f8>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000091d98a0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3535,7 +3535,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000089d1dd8>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000009204ed8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3556,7 +3556,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x00000000089fd230>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000009230538>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3577,7 +3577,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008a28700>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000009263be0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3598,7 +3598,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008a5efd0>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000092928c8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3619,7 +3619,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008a8a428>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000092bd938>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3640,7 +3640,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008ab5100>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000092e8de0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3661,7 +3661,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008ae0800>[0m
+       [31m  undefined method `profile_image' for #<User:0x0000000009314440>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3682,7 +3682,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008b17328>[0m
+       [31m  undefined method `profile_image' for #<User:0x000000000934adb0>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3703,7 +3703,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008b42280>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000093763e8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3724,7 +3724,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008b6da98>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000093a1048>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3745,7 +3745,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User:0x0000000008b990f8>[0m
+       [31m  undefined method `profile_image' for #<User:0x00000000093cc4c8>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -3762,7 +3762,7 @@ Failures:
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/strategy_syntax_method_registrar.rb:28:in `block in define_singular_strategy_method'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:5:in `block (2 levels) in <main>'[0m
 
-Finished in 1.62 seconds (files took 0.97622 seconds to load)
+Finished in 1.58 seconds (files took 0.95948 seconds to load)
 [31m199 examples, 165 failures[0m
 
 Failed examples:
