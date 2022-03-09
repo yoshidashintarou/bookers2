@@ -1,13 +1,43 @@
-<h1>編集画面</h1>
+<p id="notice"></p>
 
-<%= form_with model: @book, url: update_book_path(@book.id), method: :patch do |f| %>
-
-  <h4>タイトル</h4>
-  <%= f.text_field :title %>
-  
-  <h4>本文</h4>
-  <%= f.text_area :body %>
-  
-  <%= f.submit '保存' %>
-  
+<% if @book.errors.any? %>
+  <%= @book.errors.count %>errors prohibited this obj from being saved:
+  <ul>
+    <%= @book.errors.full_messages.each do |message| %>
+      <li><%= message %></li>
+    <% end %>
+  </ul>
 <% end %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8 col-lg-5 px-5 px-sm-0 mx-auto">
+
+<h2>Editing　Book</h2>
+<%= form_with model: @book do |f| %>
+
+<div>
+ <label>Title</label><br>
+ <%= f.text_field :title  %>
+</div>
+
+<div>
+ <labe>Opinion</labe><br>
+ <%= f.text_field :body %>
+</div>
+
+
+
+<div>
+ <%= f.submit 'Update Book' %>
+</div>
+  <% end %>
+  
+  <%= link_to"Show", book_path %>
+  |
+  <%= link_to"Back", books_path %>
+  </div>
+    </div>
+      </div>
+  
+  <%= render'users/footer' %>
