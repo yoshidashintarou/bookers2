@@ -13,19 +13,23 @@
  <tbody>
         <tr>
           <td>
-           <% if @user.image.attached? %>
-           <%= image_tag @user.image,size:"100x100" %>
+          <%= link_to user_path(@user.id) do %>
+           <% if @user.profile_image.attached? %>
+           <%= image_tag @user.profile_image,size:"100x100" %>
   
            <% else %>
            <%= image_tag 'no_image', size:"50x50" %>
            <% end %>
+          <% end %>
            <br><%= link_to @user.name, user_path(@user) %></br>
           </td>
+          <td><%= link_to  @book.title, book_path(@book) %></td>
+          <td><%= @book.body %></td>
           
-          <td><%= link_to  @book.body, book_path(@book) %></td>
-          <td><%= @book.title %></td>
+         <% if @user == current_user %>
           <td><%= link_to "Edit", edit_book_path(@book.id), class: "tn btn-sm btn-success" %></td>
           <td><%= link_to "Destroy", book_path(@book.id), class: "btn-sm btn-danger", method: :delete, "data-confirm" => "本当に削除しますか？" %></td>
+         <% end %>
         </tr>
 </tbody>
  </table>
