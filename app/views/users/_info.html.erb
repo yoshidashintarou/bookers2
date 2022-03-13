@@ -2,35 +2,35 @@
 <div class="col-md-3">
  
  <% if book.errors.any? %>
- <%= book.errors.count %>errors prohibited this obj from being saved:
+  <%= book.errors.count %>errors prohibited this obj from being saved:
   <ul>
  <%= book.errors.full_messages.each do |message| %>
-      <li><%= message %></li>
-    <% end %>
+    <li><%= message %></li>
+   <% end %>
   </ul>
 <% end %>
 
 <h2>User info</h2>
- <% if user.profile_image.attached? %>
+<% if user.profile_image.attached? %>
   <%= image_tag user.profile_image,size:"100x100" %>
 <% else %>
-  <%= image_tag 'no_image', size: "100x100" %>
+  <%= image_tag 'no_image', size: "50x50" %>
 <% end %>
 
 <table class="table">
-  <tbody>
+<tbody>
     
 <tr>    
-<th>name</th>
+ <th>name</th>
  <th><%= user.name %></th>
 </tr>
  
 <tr>
-<th>introduction</th>
-<th><%= user.introduction %></th>
+ <th>introduction</th>
+ <th><%= user.introduction %></th>
 </tr>
 
- </tbody>
+</tbody>
 </table>
 
 <div class="row">
@@ -47,12 +47,12 @@
 <%= form_with model: book do |f| %>
 
 <div class= "form-group">
-<label>Title</label>
+ <label>Title</label>
 <br>
-<input class="form-control book_title" type="text" name="book[title]" id="book_title">
+ <input class="form-control book_title" type="text" name="book[title]" id="book_title">
 </div>
 <div class= "form-group">
-<label>Opinion</label>
+ <label>Opinion</label>
 <br>
 
 <textarea class="form-control book_body" name="book[body]" id="book_body"></textarea>
@@ -60,7 +60,7 @@
 
 
  <div class="form-group">
- <%= f.submit class:"btn btn-success" %>
+  <%= f.submit class:"btn btn-success" %>
  </div>
 <% end %>
 
